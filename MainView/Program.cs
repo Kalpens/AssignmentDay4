@@ -16,7 +16,6 @@ namespace MainView
             Console.WriteLine(customer1);
             Console.WriteLine(customer2);
             Console.ReadLine();
-            //Comment
         }
     }
 }
