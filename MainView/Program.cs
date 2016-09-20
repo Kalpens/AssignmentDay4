@@ -16,7 +16,10 @@ namespace MainView
             Console.WriteLine(customer1);
             Console.WriteLine(customer2);
             Console.ReadLine();
+<<<<<<< HEAD
             //Comment
+=======
+>>>>>>> parent of 6a7ae94... Revert "Deleted useless stuff"
         }
     }
 }
