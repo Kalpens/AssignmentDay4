@@ -1,0 +1,6 @@
+c:\users\kalpens\documents\visual studio 2015\Projects\AssignmentDay4\MainView\bin\Debug\MainView.exe.config
+c:\users\kalpens\documents\visual studio 2015\Projects\AssignmentDay4\MainView\bin\Debug\MainView.exe
+c:\users\kalpens\documents\visual studio 2015\Projects\AssignmentDay4\MainView\bin\Debug\MainView.pdb
+c:\users\kalpens\documents\visual studio 2015\Projects\AssignmentDay4\MainView\obj\Debug\MainView.csprojResolveAssemblyReference.cache
+c:\users\kalpens\documents\visual studio 2015\Projects\AssignmentDay4\MainView\obj\Debug\MainView.exe
+c:\users\kalpens\documents\visual studio 2015\Projects\AssignmentDay4\MainView\obj\Debug\MainView.pdb
