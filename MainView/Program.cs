@@ -16,6 +16,10 @@ namespace MainView
             Console.WriteLine(customer1);
             Console.WriteLine(customer2);
             Console.ReadLine();
+<<<<<<< HEAD
+=======
+            //Comment
+>>>>>>> parent of d8f3105... One Commit
         }
     }
 }
